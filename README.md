@@ -1,4 +1,4 @@
-# novaposhtasettlements
+# База населених пунктів України / База населенных пунктов Украины / Ukrainian settlements database
 База населених пунктів України / База населенных пунктов Украины / Ukrainian settlements database
 
 Взято звідси
